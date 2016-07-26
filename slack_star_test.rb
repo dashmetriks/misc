@@ -1,8 +1,5 @@
 #-------------------------------------------------------------#
-# Demo test for starring a message in Slack
 #
-# Slack star test written by Tom Slattery July 18th 2016
-# Purpose: Automate a functional test for starring a message: 
 #   * Send a message to Slack by entering text in the box at the bottom of the client.
 #   * Your message will appear in the current channel. When you hover over the message, you'll see a star. Click the star.
 #   * There is a search field on the upper right. Enter the string has:star in this field and submit it.
